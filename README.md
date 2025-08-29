@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Fabrizio
 
-<!--
-**bickandtear/bickandtear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Master's degree student in Computer Engineering
 
-Here are some ideas to get you started:
+## Daily using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Operating System
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+### Browser
+
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)
